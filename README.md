@@ -17,10 +17,12 @@
   </a>
 </div>
 
-* Студент: [Владислав Антипов](https://up.htmlacademy.ru/adaptive/25/user/1944999).
+Студент: [Владислав Антипов](https://up.htmlacademy.ru/adaptive/25/user/1944999).
 
-Проекты: 
-[Sedona](https://antipov-vlad.github.io/1944999-sedona-33/)
-[Kekso](https://antipov-vlad.github.io/1944999-cat-energy-25/source/)
-[Keksobooking](https://antipov-vlad.github.io/1944999-keksobooking-26/)
+Проекты:
+- [Sedona](https://antipov-vlad.github.io/1944999-sedona-33/)
+- [Kekso](https://antipov-vlad.github.io/1944999-cat-energy-25/source/)
+- [Keksobooking](https://antipov-vlad.github.io/1944999-keksobooking-26/)
+
+
 
