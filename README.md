@@ -1,4 +1,4 @@
-# Визитка Enter &rdca; <a href="http://use-frontend.ru/"><img src="https://img.shields.io/badge/WebSite-00FFFF?style=for-the-badge" alt="Mail" width="80" height="30"/></a> 
+# Card
 
 <div id="header" align="center">
   <a href="https://yandex.ru/">
