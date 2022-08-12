@@ -1,4 +1,4 @@
-# Card
+# <div align="center">Card</div>
 
 <div id="header" align="center">
   <a href="https://yandex.ru/">
@@ -17,12 +17,16 @@
   </a>
 </div>
 
-Студент: [Владислав Антипов](https://up.htmlacademy.ru/adaptive/25/user/1944999).
+Projects:
 
-Проекты:
-- [Sedona](https://antipov-vlad.github.io/1944999-sedona-33/)
-- [Kekso](https://antipov-vlad.github.io/1944999-cat-energy-25/source/)
-- [Keksobooking](https://antipov-vlad.github.io/1944999-keksobooking-26/)
+- Sedona - [Site](https://antipov-vlad.github.io/1944999-sedona-33/) / [Repository](https://github.com/antipov-vlad/1944999-sedona-33)<br>
+![my badge](https://badgen.net/badge/Stage/successfully/green?icon=visualstudio)
 
+- Cat Energy - [Site](https://antipov-vlad.github.io/1944999-cat-energy-25/source/)  / [Repository](https://github.com/antipov-vlad/1944999-cat-energy-25)<br>
+![my badge](https://badgen.net/badge/Stage/successfully/green?icon=visualstudio)
 
+- Keksobooking - [Site](https://antipov-vlad.github.io/1944999-keksobooking-26/) / [Repository](https://github.com/antipov-vlad/1944999-keksobooking-26)<br>
+![my badge](https://badgen.net/badge/Stage/development/orange?icon=visualstudio)
 
+- Katres - [Site](https://github.com/antipov-vlad/katres) / [Repository](https://github.com/antipov-vlad/katres)<br>
+![my badge](https://badgen.net/badge/Stage/development/orange?icon=visualstudio)
