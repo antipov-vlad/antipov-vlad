@@ -25,6 +25,9 @@ Projects:
 - Cat Energy - [Site](https://antipov-vlad.github.io/1944999-cat-energy-25/source/)  / [Repository](https://github.com/antipov-vlad/1944999-cat-energy-25)<br>
 ![my badge](https://badgen.net/badge/Stage/successfully/green?icon=visualstudio)
 
+- Spacex - [Site](https://antipov-vlad.github.io/spacex/dist/) / [Repository](https://github.com/antipov-vlad/spacex)<br>
+![my badge](https://badgen.net/badge/Stage/successfully/green?icon=visualstudio)
+
 - Keksobooking - [Site](https://antipov-vlad.github.io/1944999-keksobooking-26/) / [Repository](https://github.com/antipov-vlad/1944999-keksobooking-26)<br>
 ![my badge](https://badgen.net/badge/Stage/development/orange?icon=visualstudio)
 
